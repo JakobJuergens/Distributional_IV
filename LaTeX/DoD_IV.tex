@@ -1,0 +1,131 @@
+\documentclass[letterpaper,10pt]{article}
+\usepackage[letterpaper, hmargin=1.8cm, vmargin = 2.5cm]{geometry} %Sets the page geometry
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage[english]{babel}
+\usepackage{setspace}
+\setlength{\parskip}{1em} % Set space when paragraphs are used
+\setlength{\parindent}{0in}
+
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage{graphicx} % Package for \includegraphics
+\usepackage{wrapfig} % Figure wrapping
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{tcolorbox}
+\usepackage{mathtools}
+\usepackage{bbm}
+\usepackage{booktabs}
+\usepackage{csquotes}
+\usepackage[
+backend=biber,
+style=authoryear,
+]{biblatex}
+\bibliography{bibliography.bib}
+
+% Self Explanatory
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{example}{Example}[section]
+
+% Othergit
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor} %Floor function
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil} %Ceil function
+\DeclareMathOperator*{\argmax}{arg\,max} % argmax
+\DeclareMathOperator*{\argmin}{arg\,min} % argmin
+\newcommand{\ind}{\perp\!\!\!\!\perp} 
+
+
+\begin{document}
+\singlespacing
+\title{Distributional Instrumental Variables through Optimal Transport}
+\date{Last edited: \today}
+\author{Jakob R. Juergens \\ University of Wisconsin - Madison}
+\maketitle
+\hrule
+\onehalfspacing
+\begin{abstract}
+    {\color{red} LOREM IPSUM}
+\end{abstract}
+\vspace{0.3cm}
+\hrule
+\singlespacing
+
+\vspace{-0.3cm}
+\begin{center}
+    {\small Supplementary material is available at: \url{https://github.com/JakobJuergens/Distributional_IV}}
+\end{center}
+\vspace{0.3cm}
+\hrule
+\singlespacing
+{\small \tableofcontents}
+\thispagestyle{empty}
+
+\pagenumbering{arabic}
+
+\newpage
+\onehalfspacing
+\section{Introduction}
+\hrule
+
+\section{Literature Review}
+\hrule
+
+\subsection*{Related Ideas}
+
+\subsubsection*{Mean-Regression}
+\begin{multicols}{2}
+    \begin{itemize}
+        \item \cite{hansen_econometrics_2022}
+    \end{itemize}
+\end{multicols}
+
+\subsubsection*{Quantile-Regression}
+\begin{multicols}{2}
+    \begin{itemize}
+        \item \cite{carlier_vector_2016}
+        \item \cite{carlier_vector_2022}
+    \end{itemize}
+\end{multicols}
+
+\subsection*{Distribution-on-Distribution Regression}
+\begin{multicols}{2}
+    \begin{itemize}
+        \item \cite{ghodrati_distribution--distribution_2021}
+        \item \cite{ghodrati_minimax_2022}
+        \item \cite{ghodrati_transportation_2023}
+    \end{itemize}
+\end{multicols}
+
+\section{Optimal Transport and Distribution-on-Distribution Regression}
+\hrule
+
+\subsection*{Optimal Transport}
+
+\subsection*{Distribution-on-Distribution Regression}
+
+\section{Distributional Instrumental Variables}
+\hrule
+
+\subsection*{Construction}
+
+\subsection*{Asymptotic Results}
+
+\section{Simulations}
+\hrule
+
+\section{Application}
+\hrule
+
+\newpage
+\section{Bibliography}
+\printbibliography
+
+\appendix
+
+\end{document}

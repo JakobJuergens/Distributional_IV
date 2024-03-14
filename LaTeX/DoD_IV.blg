@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'DoD_IV.blg'
+[43] biber:340> INFO - === Thu Mar 14, 2024, 11:01:58
+[52] Biber.pm:418> INFO - Reading 'DoD_IV.bcf'
+[92] Biber.pm:972> INFO - Found 6 citekeys in bib section 0
+[100] Biber.pm:4383> INFO - Processing section 0
+[106] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[107] bibtex.pm:1713> INFO - LaTeX decoding ...
+[117] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[162] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[162] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[162] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[162] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[166] bbl.pm:654> INFO - Writing 'DoD_IV.bbl' with encoding 'UTF-8'
+[168] bbl.pm:757> INFO - Output to DoD_IV.bbl

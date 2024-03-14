@@ -1,0 +1,265 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{carlier_vector_2022}{article}{}
+      \name{author}{4}{ul=3}{%
+        {{un=0,uniquepart=base,hash=d027dfbe9c99227553491e26498ca2ec}{%
+           family={Carlier},
+           familyi={C\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c75cbe2cefd1e532f636a50892605d06}{%
+           family={Chernozhukov},
+           familyi={C\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d9204b1a3ebb6e6e2daf78a6591816c}{%
+           family={De\bibnamedelima Bie},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Gwendoline},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33d13b9928a14e05d4a5ce4d6b9ad247}{%
+           family={Galichon},
+           familyi={G\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{864d4d1acc8f60906365cf41cf93975e}
+      \strng{fullhash}{25f8ada8ed716db9cd5d461072e9d604}
+      \strng{bibnamehash}{864d4d1acc8f60906365cf41cf93975e}
+      \strng{authorbibnamehash}{864d4d1acc8f60906365cf41cf93975e}
+      \strng{authornamehash}{864d4d1acc8f60906365cf41cf93975e}
+      \strng{authorfullhash}{25f8ada8ed716db9cd5d461072e9d604}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Empirical Economics}
+      \field{number}{1}
+      \field{title}{Vector quantile regression and optimal transport, from theory to numerics}
+      \field{volume}{62}
+      \field{year}{2022}
+      \field{pages}{35\bibrangedash 62}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1007/s00181-020-01919-y
+      \endverb
+    \endentry
+    \entry{carlier_vector_2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d027dfbe9c99227553491e26498ca2ec}{%
+           family={Carlier},
+           familyi={C\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c75cbe2cefd1e532f636a50892605d06}{%
+           family={Chernozhukov},
+           familyi={C\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33d13b9928a14e05d4a5ce4d6b9ad247}{%
+           family={Galichon},
+           familyi={G\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{328778d17902baf4653c63a23075c00f}
+      \strng{fullhash}{328778d17902baf4653c63a23075c00f}
+      \strng{bibnamehash}{328778d17902baf4653c63a23075c00f}
+      \strng{authorbibnamehash}{328778d17902baf4653c63a23075c00f}
+      \strng{authornamehash}{328778d17902baf4653c63a23075c00f}
+      \strng{authorfullhash}{328778d17902baf4653c63a23075c00f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Statistics}
+      \field{number}{3}
+      \field{title}{Vector quantile regression: {An} optimal transport approach}
+      \field{volume}{44}
+      \field{year}{2016}
+      \field{pages}{1165\bibrangedash 1192}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1214/15-AOS1401
+      \endverb
+    \endentry
+    \entry{ghodrati_distribution--distribution_2021}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5bf799ab9d8e28a3d384837e04f9efb3}{%
+           family={Ghodrati},
+           familyi={G\bibinitperiod},
+           given={Laya},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15e590e58f7c79b8d168fe2c92592a51}{%
+           family={Panaretos},
+           familyi={P\bibinitperiod},
+           given={Victor\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{827805275083030769291237fb3c03a1}
+      \strng{fullhash}{827805275083030769291237fb3c03a1}
+      \strng{bibnamehash}{827805275083030769291237fb3c03a1}
+      \strng{authorbibnamehash}{827805275083030769291237fb3c03a1}
+      \strng{authornamehash}{827805275083030769291237fb3c03a1}
+      \strng{authorfullhash}{827805275083030769291237fb3c03a1}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Distribution-on-{Distribution} {Regression} via {Optimal} {Transport} {Maps}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.48550/arXiv.2104.09418
+      \endverb
+    \endentry
+    \entry{ghodrati_minimax_2022}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5bf799ab9d8e28a3d384837e04f9efb3}{%
+           family={Ghodrati},
+           familyi={G\bibinitperiod},
+           given={Laya},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15e590e58f7c79b8d168fe2c92592a51}{%
+           family={Panaretos},
+           familyi={P\bibinitperiod},
+           given={Victor\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{827805275083030769291237fb3c03a1}
+      \strng{fullhash}{827805275083030769291237fb3c03a1}
+      \strng{bibnamehash}{827805275083030769291237fb3c03a1}
+      \strng{authorbibnamehash}{827805275083030769291237fb3c03a1}
+      \strng{authornamehash}{827805275083030769291237fb3c03a1}
+      \strng{authorfullhash}{827805275083030769291237fb3c03a1}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Minimax {Rate} for {Optimal} {Transport} {Regression} {Between} {Distributions}}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.48550/arXiv.2206.01447
+      \endverb
+    \endentry
+    \entry{ghodrati_transportation_2023}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5bf799ab9d8e28a3d384837e04f9efb3}{%
+           family={Ghodrati},
+           familyi={G\bibinitperiod},
+           given={Laya},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15e590e58f7c79b8d168fe2c92592a51}{%
+           family={Panaretos},
+           familyi={P\bibinitperiod},
+           given={Victor\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{827805275083030769291237fb3c03a1}
+      \strng{fullhash}{827805275083030769291237fb3c03a1}
+      \strng{bibnamehash}{827805275083030769291237fb3c03a1}
+      \strng{authorbibnamehash}{827805275083030769291237fb3c03a1}
+      \strng{authornamehash}{827805275083030769291237fb3c03a1}
+      \strng{authorfullhash}{827805275083030769291237fb3c03a1}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Transportation of {Measure} {Regression} in {Higher} {Dimensions}}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.48550/arXiv.2305.17503
+      \endverb
+    \endentry
+    \entry{hansen_econometrics_2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8ace6b167f24fa76891840f1986ed82f}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{8ace6b167f24fa76891840f1986ed82f}
+      \strng{fullhash}{8ace6b167f24fa76891840f1986ed82f}
+      \strng{bibnamehash}{8ace6b167f24fa76891840f1986ed82f}
+      \strng{authorbibnamehash}{8ace6b167f24fa76891840f1986ed82f}
+      \strng{authornamehash}{8ace6b167f24fa76891840f1986ed82f}
+      \strng{authorfullhash}{8ace6b167f24fa76891840f1986ed82f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-691-23615-5}
+      \field{month}{6}
+      \field{title}{Econometrics}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
